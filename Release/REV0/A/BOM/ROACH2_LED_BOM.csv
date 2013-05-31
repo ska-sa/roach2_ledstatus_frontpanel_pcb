@@ -1,0 +1,12 @@
+POD number,Manufacturer,PartNum,Description,Designator,Tolerance,Value,Quantity
+CAP-CER-1,VENKEL,C0402X7R160-104KN,"0.1uF, Ceramic Capacitor","C1, C2, C8",10%,0.1uF,3
+OPTO-LED-2,OSRAM or Generic Equivalent,LG-3341,"Green, 3mm, through hole non-diffused LED","DS1, DS2, DS3, DS4, DS10, DS12",,,6
+OPTO-LED-3,OSRAM or Generic Equivalent,LS-3341,"Red, 3mm,  through hole, non-diffused LED","DS5, DS6, DS7, DS8, DS9, DS11",,,6
+CONN-PCB-22,Molex,15912200,"2x10, 2.54 mm Pitch, Male Header, Surface Mount",J1,,,1
+CONN-PCB-21,Molex,15912140,"2x7, 2.54 mm Pitch, Male Header, Surface Mount",J3,,,1
+CONN-PCB-20,Molex,15912100,"2x5, 2.54 mm Pitch, Male Header, Surface Mount",P1,,,1
+RES-TF-5,ROYALOHM,0402WGJ0103T1E,"10K, 1.1mm x 0.5mm, Thick Film Resistor","R1, R2, R3, R4, R5, R6, R7, R8",5%,10K,8
+RES-TF-9,ROYALOHM,0402WGJ0181T1E,"180R, 1.1mm x 0.5mm, Thick Film Resistor","R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20",5%,180R,12
+RES-TF-0,ROYALOHM,0402WG00000T1E,"0R, 1.1mm x 0.5mm, Thick Film Resistor","R21, R22",0%,0R,2
+RES-TF-7,ROYALOHM,0402WGJ0332T1E,"3K3, 1.1mm x 0.5mm, Thick Film Resistor","R23, R24",5%,3K3,2
+IC-LOG-10,Texas Instruments,SN74AVC8T245PW,8-BIT DUAL-SUPPLY BUS TRANSCEIVER  WITH CONFIGURABLE VOLTAGE TRANSLATION AND 3-STATE OUTPUTS,U68,,,1
